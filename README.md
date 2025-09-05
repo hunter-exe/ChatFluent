@@ -11,7 +11,7 @@
 - Deployed on Render
 
 ## 🧱 Tech Stack
-- **Frontend:** React (Vite) + TypeScript (optional) + Tailwind (optional)
+- **Frontend:** React (Vite) + TypeScript  + Tailwind 
 - **Realtime:** WebRTC for media; **Socket.IO** for signaling
 - **Backend:** Node.js + Express + Socket.IO server
 - **Deployment:** Render (Web Service)
