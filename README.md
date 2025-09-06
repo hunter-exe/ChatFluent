@@ -17,13 +17,12 @@
 - **Deployment:** Render (Web Service)
 - **ICE/STUN:** Public STUN (e.g., Google) by default; optional TURN for NAT-heavy networks
 
-> Note: This README assumes a common WebRTC + Socket.IO architecture which matches your app’s purpose. Your repo layout shows `backend/` and `frontend/` folders and a root `package.json` (confirmed on GitHub). Update any library names here if they differ in your code. (Repo structure: backend/, frontend/, package.json). 
 
 ## ✅ Prerequisites
 - **Node.js ≥ 18** (LTS recommended)
 - **npm** or **pnpm** or **yarn** (choose one)
 - A modern browser with camera/microphone permissions
-- (Optional) **TURN** server credentials if your users are behind strict NATs
+- **TURN** server credentials if your users are behind strict NATs
 
 ## 🚀 Quick Start (Local)
 
